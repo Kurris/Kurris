@@ -10,7 +10,7 @@
 
 
 ### skills:
-- **backend**[major] : .net core / java spring boot
+- **backend** : .net core [major] / java spring boot
 - **frontend** : javasript/scss [vue2/3](https://vuejs.org/) love it~
 - **devops** : k8s on [rancher](https://rancher.com/)
 
