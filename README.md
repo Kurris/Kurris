@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Ligy
-
-
+  Not famous developer,trying to be full stack (on the way), also love comics ,dota2 and csgo
 
 ---
 
