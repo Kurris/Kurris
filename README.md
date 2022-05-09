@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Ligy
-  Chinese,developer,player of dota2,love comics,love family,trying to be full stack (on the way),keep learning,stay enthusiastic,stay competitive 
+ software  engineer(csharp),player of dota2,love comics,love family,trying to be full stack (on the way),keep learning,stay enthusiastic,stay competitive 
 
 ---
 
 - 🔭 I’m currently working on 🇨🇳hangzhou.China
-- 🌱 I’m currently learning **Front-End Deeply** 
+- 🌱 I’m currently learning **waht i interest**
 - 📫 How to reach me: ligy.97@foxmail.com
 
 
