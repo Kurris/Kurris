@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on 🇨🇳hangzhou.China
-- 🌱 I’m currently learning **waht i interest**
+- 🌱 I’m currently learning **what i interest**
 - 📫 How to reach me: ligy.97@foxmail.com
 
 
